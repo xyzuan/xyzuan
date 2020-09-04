@@ -20,7 +20,7 @@
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/AnggaR96s/AnggaR96s/master/asset/git-header.svg" />
 
-- 🎓 I’m now studying at [SMAN 01 NGUNUT](https://smanusa.sch.id)
+- 🎓 I’m now studying at [SMAN 01 NGUNUT](https://sma-nusa.sch.id)
 - 🌱 I’m currently learning Android Development.
 - 🐍 I love Python programming language.
 - 🤔 I’m looking for help with Search Engine.
