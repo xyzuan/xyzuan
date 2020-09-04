@@ -28,16 +28,7 @@
 - 🌐 Official Website : [Website - xyzuan](https://xyzuan.me)
 - ❤️ sya.
 ---
-<!-- Spotify Stuff -->
-[![Spotify](https://spotify-xi.vercel.app/api/spotify)](https://open.spotify.com/user/bqn8b8hbebc5uzlx5ke61ztw8)
 
----
-**My Latest Tweet:**
-<br><br><a href="https://twitter.com/xyzuan" target="_blank">
-	<img src="https://github.com/AnggaR96s/AnggaR96s/raw/master/tweet.png" width="100%" align="center" alt="Click to view on Twitter" title="My latest tweet, as an image"/>
-</a><br>
-
----
 **Languages and Tools:** 
 
 <!-- Your github readme stats
