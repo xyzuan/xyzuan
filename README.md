@@ -1,9 +1,9 @@
 <!-- Your title -->
-## Hi, I'm Jody Yuantoro, from Indonesia. <img src="https://raw.githubusercontent.com/xyzuan/xyzuan.github.io/master/images/me.png" width="120px">
+## Hi, I'm Jody Yuantoro, from Indonesia. <img src="https://media.giphy.com/media/WOwiryOPA0G6jhKqB0/source.gif" width="30px">
 
 ---
 <p align="center">
-  <img src="https://media.giphy.com/media/WOwiryOPA0G6jhKqB0/source.gif" width="30%"><br>
+  <img src="https://https://raw.githubusercontent.com/xyzuan/xyzuan.github.io/master/images/me.png" width="30%"><br>
 </p>
 
 ---
