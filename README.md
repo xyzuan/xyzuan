@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Jody Yuantoro, from Indonesia. <img src="https://raw.githubusercontent.com/AnggaR96s/AnggaR96s/master/asset/Hi.gif" width="30px">
+## Hi, I'm Jody Yuantoro, from Indonesia. <img src="https://raw.githubusercontent.com/xyzuan/xyzuan.github.io/master/images/me.png" width="120px">
 
 ---
 <p align="center">
@@ -29,9 +29,7 @@
 - ❤️ sya.
 ---
 <!-- Spotify Stuff -->
-[![Spotify](https://spotify-xi.vercel.app/api/spotify)](https://open.spotify.com/user/21c2fiyo3msehg6io65x74ria)
-<!-- LastFM Scrobbles -->
-[![LastFM](https://angga-lastfm.vercel.app/api?user=DeathRhythm&count=3&width=480)](https://www.last.fm/user/DeathRhythm)
+[![Spotify](https://spotify-xi.vercel.app/api/spotify)](https://open.spotify.com/user/bqn8b8hbebc5uzlx5ke61ztw8)
 
 ---
 **My Latest Tweet:**
@@ -46,8 +44,8 @@
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
-  <a href="https://github.com/AnggaR96s">
-    <img width="55%" align="right" alt="Angga's github stats" src="https://github-readme-stats.vercel.app/api?username=AnggaR96s&show_icons=true&hide_border=true" />
+  <a href="https://github.com/xyzuan">
+    <img width="55%" align="right" alt="xyzuan github stats" src="https://github-readme-stats.vercel.app/api?username=xyzuan&show_icons=true" />
   </a>
   
   <!-- Your languages and tools. Be careful with the alignment. 
@@ -91,7 +89,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
  > 
 > 📜 74 Public Repositories
  > 
-> 🔑 50 Private Repositories 
+> 🔑 5 Private Repositories 
 
 **I'm a Night 🦉** 
 
