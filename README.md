@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Jody Yuantoro, from Indonesia. <img src="https://raw.githubusercontent.com/AnggaR96s/AnggaR96s/master/asset/Hi.gif" width="30px">
+## Hi, I'm Jody Yuantoro, from Indonesia.
 
 ---
 <p align="center">
@@ -16,9 +16,6 @@
 ---
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
-
-<!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/AnggaR96s/AnggaR96s/master/asset/git-header.svg" />
 
 - 🎓 I’m now studying at [SMAN 01 NGUNUT](https://sma-nusa.sch.id)
 - 🌱 I’m currently learning Android Development.
