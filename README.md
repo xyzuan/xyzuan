@@ -17,10 +17,10 @@
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
 
-- 🎓 I’m now studying at [SMAN 01 NGUNUT](https://sma-nusa.sch.id)
-- 🌱 I’m currently learning Android Development.
-- 📫 How to reach me : [Telegram - xyzuan](https://t.me/xyzuan)
-- 🌐 Official Website : [Website - xyzuan](https://xyzuan.me)
-- ❤️ sya.
+🎓 I’m now studying at [SMAN 01 NGUNUT](https://sma-nusa.sch.id)
+🌱 I’m currently learning Android Development.
+📫 How to reach me : [Telegram - xyzuan](https://t.me/xyzuan)
+🌐 Official Website : [Website - xyzuan](https://xyzuan.me)
+❤️ sya.
 
 ---
