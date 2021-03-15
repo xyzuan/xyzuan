@@ -19,8 +19,6 @@
 
 - 🎓 I’m now studying at [SMAN 01 NGUNUT](https://sma-nusa.sch.id)
 - 🌱 I’m currently learning Android Development.
-- 🐍 I love Python programming language.
-- 🤔 I’m looking for help with Search Engine.
 - 📫 How to reach me : [Telegram - xyzuan](https://t.me/xyzuan)
 - 🌐 Official Website : [Website - xyzuan](https://xyzuan.me)
 - ❤️ sya.
