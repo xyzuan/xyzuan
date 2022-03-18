@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://github.com/xyzuan/xyzuan/raw/master/personalcardv10.png"><br>
+  <img src="https://raw.githubusercontent.com/xyzuan/xyzuan/master/xyzuan.png"><br>
 </p>
